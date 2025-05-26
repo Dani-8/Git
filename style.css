@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(233, 236, 238);
+}
+
+.text{
+    width: 45%;
+    margin: 90px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    /* border: 1px solid; */
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0px 0px 30px 50px  rgba(45, 44, 44, 0.1);
+ background: -webkit-radial-gradient(circle, #ffffff 0%, #ffffff 50%, rgba(45, 44, 44, 0.1) 100%);
+background: radial-gradient(circle, #ffffff 0%, #ffffff 50%, rgba(45, 44, 44, 0.1) 100%);
+}
+
+.text h1{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(87, 179, 249);
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+.text p{
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.6;
+    color: rgb(50, 50, 50);
+    margin-bottom: 50px;
+}
+
+.text ul li{
+    font-size: 15px;
+    line-height: 1.6;
+    color: rgb(50, 50, 50);
+}
+
+
+.text ul li strong{
+    color: rgb(18, 131, 218);
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
